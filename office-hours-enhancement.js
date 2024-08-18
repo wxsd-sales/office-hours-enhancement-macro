@@ -26,7 +26,7 @@
 import xapi from 'xapi';
 
 
-// Variables for storing out timers
+// Variables for storing our timers
 let activateStandbyTimer = null;
 let deactivateStandbyTimer = null;
 
